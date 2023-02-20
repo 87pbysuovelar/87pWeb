@@ -1,0 +1,16 @@
+.video { position: relative; }
+    .marca { position: absolute; bottom: 10px; left: 10px;
+        font-family: sans-serif;
+        font-weight: bold;
+        font-size: 120px;
+        color:white;
+        text-align: center !important;
+        margin-top: 10px;
+
+    }
+    
+
+
+.ratio-16x9{
+    --bs-aspect-ratio: 0 !important;
+}
